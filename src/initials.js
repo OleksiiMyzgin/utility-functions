@@ -1,4 +1,3 @@
-// first name -> First Name
 const initials = (name = '') => (
   name
     .split(' ')
