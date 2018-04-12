@@ -16,5 +16,3 @@ randomNumber(1, 10);
 URLSlug('My Favorite Songs');
 //=> 'my-favorite-songs'
 ```
-
-_MIT License_
