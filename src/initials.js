@@ -1,4 +1,4 @@
-// first name -> First Name
+// Capitalise first letter of each word
 const initials = (name = '') => (
   name
     .split(' ')
